@@ -15,6 +15,7 @@ This application was developed by Team Geek Squad, for CodeGladiators 2023 Micro
 ##### Prerequisites
 You will need Ruby installed on your machine along with the Sinatra and ActiveRecord gems. If not already installed, you can install these gems by running the following command in your terminal:
 ```
+gem install eventmachine --platform ruby
 bundle install
 ```
 Running the Application
