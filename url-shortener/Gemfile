@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+ruby '3.2.2' # Replace this with the version of Ruby you are using
+
+gem 'sinatra'
+gem 'thin'
+gem 'sequel'
