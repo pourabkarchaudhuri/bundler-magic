@@ -1,0 +1,15 @@
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\bin\Debug\net7.0\task-management-app.exe
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\bin\Debug\net7.0\task-management-app.deps.json
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\bin\Debug\net7.0\task-management-app.runtimeconfig.json
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\bin\Debug\net7.0\task-management-app.dll
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\bin\Debug\net7.0\task-management-app.pdb
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.csproj.AssemblyReference.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.AssemblyInfoInputs.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.AssemblyInfo.cs
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.csproj.CoreCompileInputs.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.dll
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\refint\task-management-app.dll
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.pdb
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\task-management-app.genruntimeconfig.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\task-management-app\obj\Debug\net7.0\ref\task-management-app.dll

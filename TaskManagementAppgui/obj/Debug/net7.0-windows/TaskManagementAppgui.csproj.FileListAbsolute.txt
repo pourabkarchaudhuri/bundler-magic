@@ -1,0 +1,15 @@
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\bin\Debug\net7.0-windows\TaskManagementAppgui.exe
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\bin\Debug\net7.0-windows\TaskManagementAppgui.deps.json
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\bin\Debug\net7.0-windows\TaskManagementAppgui.runtimeconfig.json
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\bin\Debug\net7.0-windows\TaskManagementAppgui.dll
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\bin\Debug\net7.0-windows\TaskManagementAppgui.pdb
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.csproj.AssemblyReference.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.AssemblyInfoInputs.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.AssemblyInfo.cs
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.csproj.CoreCompileInputs.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.dll
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\refint\TaskManagementAppgui.dll
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.pdb
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\TaskManagementAppgui.genruntimeconfig.cache
+C:\Users\Sandh\OneDrive\Documents\GitHub\bundler-magic\TaskManagementAppgui\obj\Debug\net7.0-windows\ref\TaskManagementAppgui.dll
