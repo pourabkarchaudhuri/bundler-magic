@@ -1,4 +1,5 @@
-## Geek Squad's Code Gladiators Project with Microsoft GitHub Copilot
+## Code Gladiators 2023 - Microsoft GitHub Copilot
+#### Team: Geek Squad
 
 This repository contains multiple projects developed using different technologies. Each project focuses on a specific functionality or application. Below is a summary of the projects included:
 
